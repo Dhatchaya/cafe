@@ -34,6 +34,7 @@ header{
     background: url(bg3.jpg);
     padding: 50px;
     background-size: cover;
+    width: 100%;
 }
 .wc{
     
@@ -293,6 +294,7 @@ div{
 
     background: url(cof7.jpg);
     background-size:cover;
+    width: 100%;
     
 }
   
